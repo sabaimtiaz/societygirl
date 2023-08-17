@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+#title: home
 ---
 # Notes on a Scandal / Society Girl
 
