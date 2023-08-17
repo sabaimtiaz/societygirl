@@ -16,16 +16,16 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 
 
 ## Podcast
-- [Apple Podcasts:](https://podcasts.apple.com/gb/podcast/notes-on-a-scandal/id1599754925)
-- [Spotify:](https://open.spotify.com/show/5shhbp4s5TDLhPhFJxXRfL)
-- [Google Podcasts:](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTAxNDc0LnJzcw)
-- [Overcast:](https://overcast.fm/itunes1599754925)
-- [Amazon Music:](https://music.amazon.com/podcasts/c8ade3c2-e3fe-4f2d-95ef-4db5daf5ce74)
-- [Podcast Addict:](https://podcastaddict.com/podcast/3741372)
+- [Apple Podcasts](https://podcasts.apple.com/gb/podcast/notes-on-a-scandal/id1599754925)
+- [Spotify](https://open.spotify.com/show/5shhbp4s5TDLhPhFJxXRfL)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTAxNDc0LnJzcw)
+- [Overcast](https://overcast.fm/itunes1599754925)
+- [Amazon Music](https://music.amazon.com/podcasts/c8ade3c2-e3fe-4f2d-95ef-4db5daf5ce74)
+- [Podcast Addict](https://podcastaddict.com/podcast/3741372)
 
 
 ## Social: 
-- [Instagram:](https://instagram.com/murdermystery70)
+- [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
 - [Twitter / Saba Imtiaz:](https://twitter.com/sabaimtiaz)
 - [Twitter / Tooba Masood:](https://twitter.com/tabahitooba)
 - [Instagram / Saba Imtiaz:](https://instagram.com/sabaimtiaz)
