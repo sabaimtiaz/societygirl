@@ -41,4 +41,6 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 ## Contact
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
+- For publishing inquiries, please contact [The Wylie Agency](https://www.wylieagency.com/)
+
 
