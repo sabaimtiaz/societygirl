@@ -2,7 +2,6 @@
 layout: page
 #title: home
 ---
-# Notes on a Scandal / Society Girl
 
 Welcome to the **Notes on a Scandal** podcast! **Notes on a Scandal** reexamines and investigates a fascinating crime in an unusual city. The podcast is hosted and produced by Saba Imtiaz and Tooba Masood. It serves as an accompaniment to the upcoming non-fiction book *Society Girl: A Tale of Sex, Lies and Scandal in Pakistan*, by Saba Imtiaz and Tooba Masood (to be published by Roli Books).
 
@@ -22,7 +21,14 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 - [Podcast Addict](https://podcastaddict.com/podcast/3741372)
 
 
-## Social: 
+## News!
+
+1. [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
+2. [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
+3. [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
+
+
+## Social
 - [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
 - [Twitter / Saba Imtiaz](https://twitter.com/sabaimtiaz)
 - [Twitter / Tooba Masood](https://twitter.com/tabahitooba)
@@ -30,14 +36,8 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 - [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
 
 
-## Notes on a Scandal - News!
-
-1. [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
-2. [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
-3. [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
-
 ## Contact
-Email [Saba Imtiaz](mailto:saba@mm.st)
-Email [Tooba Masood](mailto:masoodtooba@gmail.com)
+- Email [Saba Imtiaz](mailto:saba@mm.st)
+- Email [Tooba Masood](mailto:masoodtooba@gmail.com)
 
 
