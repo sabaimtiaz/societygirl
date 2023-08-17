@@ -102,6 +102,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-feed (0.17.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -133,6 +135,9 @@ GEM
     mercenary (0.4.0)
     method_source (1.0.0)
     mini_mime (1.1.5)
+    minimal (0.0.26)
+      actionpack (>= 3.0.0)
+      activesupport (>= 3.0.0)
     minitest (5.19.0)
     net-imap (0.3.7)
       date
@@ -210,8 +215,10 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
+  jekyll-feed (~> 0.12)
   jekyll-remote-theme
   jekyll-seo-tag
+  minimal
   rails
   wdm (~> 0.1.1)
 
