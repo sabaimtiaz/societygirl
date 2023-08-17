@@ -3,7 +3,7 @@ layout: home
 ---
 # Notes on a Scandal / Society Girl
 
-Welcome to the **Notes on a Scandal** podcast! **Notes on a Scandal**reexamines and investigates a fascinating crime in an unusual city. The podcast is hosted and produced by Saba Imtiaz and Tooba Masood. It serves as an accompaniment to the upcoming non-fiction book Society Girl, a Tale of Sex, Lies and Scandal in Pakistan, by Saba Imtiaz and Tooba Masood. (to be published by Roli Books)
+Welcome to the **Notes on a Scandal** podcast! **Notes on a Scandal** reexamines and investigates a fascinating crime in an unusual city. The podcast is hosted and produced by Saba Imtiaz and Tooba Masood. It serves as an accompaniment to the upcoming non-fiction book Society Girl, a Tale of Sex, Lies and Scandal in Pakistan, by Saba Imtiaz and Tooba Masood. (to be published by Roli Books)
 
 ## About the podcast
 
