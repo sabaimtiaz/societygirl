@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 # Notes on a Scandal / Society Girl
@@ -26,10 +23,10 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 
 ## Social: 
 - [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
-- [Twitter / Saba Imtiaz:](https://twitter.com/sabaimtiaz)
-- [Twitter / Tooba Masood:](https://twitter.com/tabahitooba)
-- [Instagram / Saba Imtiaz:](https://instagram.com/sabaimtiaz)
-- [Instagram / Tooba Masood:](https://instagram.com/tabahi_tooba)
+- [Twitter / Saba Imtiaz](https://twitter.com/sabaimtiaz)
+- [Twitter / Tooba Masood](https://twitter.com/tabahitooba)
+- [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
+- [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
 
 
 ## Notes on a Scandal - News!
