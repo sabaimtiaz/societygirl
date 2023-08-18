@@ -3,13 +3,13 @@ layout: default
 #title: home
 ---
 
-Welcome to the **Notes on a Scandal** podcast! **Notes on a Scandal** reexamines and investigates a fascinating crime in an unusual city. The podcast is hosted and produced by Saba Imtiaz and Tooba Masood. It serves as an accompaniment to the upcoming non-fiction book *Society Girl: A Tale of Sex, Lies and Scandal in Pakistan*, by Saba Imtiaz and Tooba Masood (to be published by Roli Books). 
+Welcome to the **Notes on a Scandal** podcast! **Notes on a Scandal** reexamines and investigates a fascinating crime in an unusual city. The podcast is hosted and produced by Saba Imtiaz and Tooba Masood. It serves as an accompaniment to the upcoming non-fiction book **Society Girl: A Tale of Sex, Lies and Scandal in Pakistan**, by Saba Imtiaz and Tooba Masood (to be published by Roli Books). 
 
 **Sign up for updates [here](/signup.html)**
 
 ## About the podcast
 
-The story at the centre of **Notes on a Scandal** is the mysterious death of Mustafa Zaidi, a famous poet and former high-ranking government officer in Pakistan, who was found dead in his apartment while a woman lay unconscious nearby. It caused such a scandal in 1970 that the Associated Press dubbed it ‘Pakistan’s first jet set murder.' Over 50 years later, the case is still unresolved, and rife with conspiracies and conjecture. 
+The story at the centre of **Notes on a Scandal** is the mysterious death of Mustafa Zaidi, a famous poet and former high-ranking government officer in Pakistan, who was found dead in his house in Karachi while a woman lay unconscious nearby. It caused such a scandal in Pakistan in 1970 that the Associated Press dubbed it ‘Pakistan’s first jet set murder.' Over 50 years later, the case is still unresolved, and rife with conspiracies and conjecture. 
 
 On the podcast, we unpack the events that led to this unresolved mystery, and explore the world of South Asia's swinging elite, their nights out at cabarets and key club parties, and the powerful business magnates and politicians, who ended up being entangled in this saga.
 
@@ -41,6 +41,6 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 ## Contact
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For publishing inquiries, please contact [The Wylie Agency](https://www.wylieagency.com/)
+- For publishing inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 
