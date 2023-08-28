@@ -60,9 +60,10 @@ On the podcast, we unpack the events that led to this unresolved mystery, and ex
 
 ## News!
 
-1. [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
-2. [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
-3. [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
+1.  [NYT: The Best True Crime to Stream: Leaving the United States](https://www.nytimes.com/2023/08/28/arts/true-crime-streaming-international.html?smid=nytcore-ios-share&referringSource=articleShare)
+2.  [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
+3. [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
+4. [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
 
 
 ## Social
