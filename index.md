@@ -5,7 +5,7 @@ layout: default
 
 ## Society Girl
 
-**Society Girl: A Tale of Sex, Lies and Scandal in Pakistan**, by Saba Imtiaz and Tooba Masood-Khan (upcoming, Roli Books). 
+**Society Girl: A Tale of Sex, Lies and Scandal in Pakistan**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (upcoming, Roli Books). 
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
