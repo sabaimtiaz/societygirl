@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Notes on a Scandal
 ---
 
 **Notes on a Scandal** is a limited-series podcast about the mysterious death of Mustafa Zaidi, a famous poet and former high-ranking government officer in 1970 in Karachi, Pakistan. The story caused such a scandal that the Associated Press dubbed it ‘Pakistan’s first jet set murder’. On the podcast, we unpack the events that led to this unresolved mystery, and explore the world of Pakistan's swinging elite and powerful business magnates and politicians, and how they ended up being entangled in this saga.
