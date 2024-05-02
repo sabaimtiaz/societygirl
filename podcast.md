@@ -53,7 +53,7 @@ The podcast is hosted and produced by journalists **Saba Imtiaz** and **Tooba Ma
 <div id="buzzsprout-player-10960588"></div><script src="https://www.buzzsprout.com/1901474/10960588-trailer-season-2-the-state-vs-shahnaz-gul.js?container_id=buzzsprout-player-10960588&player=small" type="text/javascript" charset="utf-8"></script>
 
 
-## News!
+## Media
 
 1.  [NYT: The Best True Crime to Stream: Leaving the United States](https://www.nytimes.com/2023/08/28/arts/true-crime-streaming-international.html?smid=nytcore-ios-share&referringSource=articleShare)
 2.  [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
