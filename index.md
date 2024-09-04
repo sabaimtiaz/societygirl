@@ -58,7 +58,7 @@ The [limited-series podcast](podcast.md) explores the mysterious death of Mustaf
 - [Twitter / Tooba Masood](https://twitter.com/tabahitooba)
 - [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
 - [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
-- [Instagram / Roli Books][https://instagram.com/rolibooks]
+- [Instagram / Roli Books](https://instagram.com/rolibooks)
 
 
 ## Contact
