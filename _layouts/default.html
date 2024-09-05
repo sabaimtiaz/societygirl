@@ -12,9 +12,50 @@
 
 {% seo %}
     {% include head-custom.html %}
+
+    <head>
+  <!-- existing head content -->
+
+  <style>
+    .tabs {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+    }
+    
+    .tabs li {
+      margin-right: 15px;
+    }
+    
+    .tabs li a {
+      text-decoration: none;
+      padding: 10px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      color: #333;
+    }
+    
+    .tabs li a:hover {
+      background-color: #ddd;
+    }
+    
+    .tabs li a.active {
+      background-color: #555;
+      color: white;
+    }
+  </style>
+</head>
+
   </head>
 
   <body>
+     <nav>
+      <ul class="tabs">
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/podcast/">Podcast</a></li>
+      </ul>
+    </nav>
     <div id="container">
       <div class="inner">
 
