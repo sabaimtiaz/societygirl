@@ -5,7 +5,7 @@ title: Society Girl
 
 ## Coming Soon!
 
-**Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (upcoming, Roli Books). 
+**Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -43,14 +43,10 @@ title: Society Girl
 ## Praise for Society Girl
 ‘A captivating true crime drama that will have you gripped till the very last page.’ — **Sonia Faleiro**, author of *The Good Girls: An Ordinary Killing*
 
-‘They take a sensational story and turn it into our social history... a leisurely exploration of early ’70s Pakistan, social mobility, a woman trying to have a family and a life, occasionally a collage of the social mores and a series of what-the-hell-just-happened moments.’ — **Mohammed Hanif**, author of *A Case of Exploding Mangoes* and *Our Lady of Alice Bhatti*
+‘They take a sensational story and turn it into our social history... a leisurely exploration of early ’70s Pakistan, social mobility, a woman trying to have a family and a life, occasionally a collage of the social mores and a series of what-the-hell-just-happened moments.’ --**Mohammed Hanif**, author of *A Case of Exploding Mangoes* and *Our Lady of Alice Bhatti*
 
 ‘Vivid, gripping and meticulously crafted, this is a wonderfully fascinating journey into ’70s Karachi high society, a mysterious death shining a light on the whirl of social and political undercurrents of the time.’ — **Mahesh Rao**, author of *Polite Society*
 
-
-## Podcast: Notes on a Scandal 
-
-The [limited-series podcast](podcast.md) explores the mysterious death of Mustafa Zaidi, a famous poet and former high-ranking government officer in Pakistan, who was found dead in his house in Karachi while a woman lay unconscious nearby. It caused such a scandal in Pakistan in 1970 that the Associated Press dubbed it ‘Pakistan’s first jet set murder.' [More here](podcast.md).
 
 ## Social
 - [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
@@ -59,6 +55,8 @@ The [limited-series podcast](podcast.md) explores the mysterious death of Mustaf
 - [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
 - [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
 - [Instagram / Roli Books](https://instagram.com/rolibooks)
+- [Podcast: Notes on a Scandal](podcast.md) 
+
 
 
 ## Contact

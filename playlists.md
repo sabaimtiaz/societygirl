@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Notes on a Scandal
+title: Playlists
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6C4U99K0VVGntDzV6tzEQY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

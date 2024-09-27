@@ -7,8 +7,11 @@ title: Notes on a Scandal
 
 The podcast is hosted and produced by journalists **Saba Imtiaz** and **Tooba Masood-Khan.**
 
+## Trailer
+<div id="buzzsprout-player-10960588"></div><script src="https://www.buzzsprout.com/1901474/10960588-trailer-season-2-the-state-vs-shahnaz-gul.js?container_id=buzzsprout-player-10960588&player=small" type="text/javascript" charset="utf-8"></script>
 
-## Podcast
+
+## Listen
 - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/notes-on-a-scandal/id1599754925)
 - [Spotify](https://open.spotify.com/show/5shhbp4s5TDLhPhFJxXRfL)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTAxNDc0LnJzcw)
@@ -16,16 +19,13 @@ The podcast is hosted and produced by journalists **Saba Imtiaz** and **Tooba Ma
 - [Amazon Music](https://music.amazon.com/podcasts/c8ade3c2-e3fe-4f2d-95ef-4db5daf5ce74)
 - [Podcast Addict](https://podcastaddict.com/podcast/3741372)
 
-## Trailer
-<div id="buzzsprout-player-10960588"></div><script src="https://www.buzzsprout.com/1901474/10960588-trailer-season-2-the-state-vs-shahnaz-gul.js?container_id=buzzsprout-player-10960588&player=small" type="text/javascript" charset="utf-8"></script>
-
 
 ## Media
 
-1.  [NYT: The Best True Crime to Stream: Leaving the United States](https://www.nytimes.com/2023/08/28/arts/true-crime-streaming-international.html?smid=nytcore-ios-share&referringSource=articleShare)
-2.  [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
-3. [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
-4. [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
+- [NPR: Listeners are enthralled by Pakistan's first true crime podcast](https://www.npr.org/2023/08/07/1192432614/listeners-are-enthralled-by-pakistans-fist-true-crime-podcast) 
+- [The Guardian / Here Here: Best podcasts of the week](https://www.theguardian.com/tv-and-radio/2022/aug/25/hear-here-koko-gorilla-podcast) 
+- [Arab News: Half-century later, first Pakistani crime podcast examines mystery of renowned poet’s death](https://www.arabnews.pk/node/2123411/pakistan) 
+- [NYT: The Best True Crime to Stream: Leaving the United States](https://www.nytimes.com/2023/08/28/arts/true-crime-streaming-international.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 
 ## Social

@@ -1,0 +1,20 @@
+<div class="pdf-controls">
+  <button id="prev">Previous</button>
+  <button id="next">Next</button>
+  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+  <button id="download-pdf">Download PDF</button>
+</div>
+
+<div class="pdf-search">
+  <input type="text" id="search-input" placeholder="Search PDF">
+  <button id="search-button">Search</button>
+  <div id="search-results"></div>
+</div>
+
+<canvas id="pdf-canvas"></canvas>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.9.359/pdf.min.js"></script>
+<script>
+  const pdfUrl = "{{ page.pdf_url | relative_url }}";
+</script>
+<script src="{{ '/assets/js/pdf_viewer.js' | relative_url }}"></script>
