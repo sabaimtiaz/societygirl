@@ -12,13 +12,21 @@ The podcast is hosted and produced by journalists **Saba Imtiaz** and **Tooba Ma
 
 
 ## Listen
-- [Apple Podcasts](https://podcasts.apple.com/gb/podcast/notes-on-a-scandal/id1599754925)
-- [Spotify](https://open.spotify.com/show/5shhbp4s5TDLhPhFJxXRfL)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTAxNDc0LnJzcw)
-- [Overcast](https://overcast.fm/itunes1599754925)
-- [Amazon Music](https://music.amazon.com/podcasts/c8ade3c2-e3fe-4f2d-95ef-4db5daf5ce74)
-- [Podcast Addict](https://podcastaddict.com/podcast/3741372)
 
+  <a href="https://overcast.fm/itunes1599754925" target="_blank">
+    <img src="/assets/images/overcast.png" alt="Listen on Overcast" style="width:100px;height:auto;">
+</a>
+
+  <a href="https://podcasts.apple.com/us/podcast/notes-on-a-scandal/id1599754925?itscg=30200&itsct=podcast_box_badge&ls=1&mttnsubad=1599754925" target="_blank" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/listen-on-apple-podcasts/badge/en-us" alt="Listen on Apple Podcasts" style="width: 339px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    </a>
+
+
+  <a href="https://open.spotify.com/show/5shhbp4s5TDLhPhFJxXRfL" target="_blank">
+    <img src="/assets/images/spotify-podcast-badge-blk-wht-660x160.png" alt="Listen on Spotify" style="width:339px;height:auto;">
+</a>
+
+<div id='buzzsprout-large-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1901474.js?container_id=buzzsprout-large-player&player=large'></script>
 
 ## Media
 
