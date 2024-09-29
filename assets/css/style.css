@@ -401,6 +401,12 @@ footer a:hover {
 .clearfix {
   display: block; }
 
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 /* #Media Queries
 ================================================== */
 /* Smaller than standard 960 (devices and browsers) */
