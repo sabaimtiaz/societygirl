@@ -7,6 +7,43 @@ title: Society Girl
 
 **Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
+
+## Society Girl: A Tale of Sex, Lies, and Scandal
+
+On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
+
+The ensuing scandal would shake Pakistani society, becoming a fixture on the front pages of newspapers even as the country went from one cataclysmic event to another. It grew to include obsession, revenge porn, the involvement of influential politicians and businessmen, and even a smuggling ring. 
+
+But two autopsies, several investigations, and one trial later – no one was able to answer what exactly happened in that bedroom, and how Mustafa Zaidi ended up dead. 
+
+Over fifty years later, authors Saba Imtiaz and Tooba Masood-Khan attempt to answer this question in Society Girl. Their retelling of, and years-long investigation into this story of twisted motives and murderous intentions, of it-girls and playboys, of class and culture, and a press out for blood and salaciousness, led to a far more complex tale than anyone could have possibly imagined.
+
+
+## Praise for Society Girl
+‘A captivating true crime drama that will have you gripped till the very last page.’ — **Sonia Faleiro**, author of *The Good Girls: An Ordinary Killing*
+
+‘They take a sensational story and turn it into our social history... a leisurely exploration of early ’70s Pakistan, social mobility, a woman trying to have a family and a life, occasionally a collage of the social mores and a series of what-the-hell-just-happened moments.’ --**Mohammed Hanif**, author of *A Case of Exploding Mangoes* and *Our Lady of Alice Bhatti*
+
+‘Vivid, gripping and meticulously crafted, this is a wonderfully fascinating journey into ’70s Karachi high society, a mysterious death shining a light on the whirl of social and political undercurrents of the time.’ — **Mahesh Rao**, author of *Polite Society*
+
+
+## Social
+- [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
+- [Twitter / Saba Imtiaz](https://twitter.com/sabaimtiaz)
+- [Twitter / Tooba Masood](https://twitter.com/tabahitooba)
+- [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
+- [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
+- [Instagram / Roli Books](https://instagram.com/rolibooks)
+- [Podcast: Notes on a Scandal](podcast.md) 
+
+
+
+## Contact
+- Email [Saba Imtiaz](mailto:saba@mm.st)
+- Email [Tooba Masood](mailto:masoodtooba@gmail.com)
+- For publishing inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
+
+
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
@@ -39,29 +76,3 @@ title: Society Girl
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
 ---
-
-## Praise for Society Girl
-‘A captivating true crime drama that will have you gripped till the very last page.’ — **Sonia Faleiro**, author of *The Good Girls: An Ordinary Killing*
-
-‘They take a sensational story and turn it into our social history... a leisurely exploration of early ’70s Pakistan, social mobility, a woman trying to have a family and a life, occasionally a collage of the social mores and a series of what-the-hell-just-happened moments.’ --**Mohammed Hanif**, author of *A Case of Exploding Mangoes* and *Our Lady of Alice Bhatti*
-
-‘Vivid, gripping and meticulously crafted, this is a wonderfully fascinating journey into ’70s Karachi high society, a mysterious death shining a light on the whirl of social and political undercurrents of the time.’ — **Mahesh Rao**, author of *Polite Society*
-
-
-## Social
-- [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
-- [Twitter / Saba Imtiaz](https://twitter.com/sabaimtiaz)
-- [Twitter / Tooba Masood](https://twitter.com/tabahitooba)
-- [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
-- [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
-- [Instagram / Roli Books](https://instagram.com/rolibooks)
-- [Podcast: Notes on a Scandal](podcast.md) 
-
-
-
-## Contact
-- Email [Saba Imtiaz](mailto:saba@mm.st)
-- Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For publishing inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
-
-
