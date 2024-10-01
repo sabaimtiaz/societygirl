@@ -3,12 +3,16 @@ layout: default
 title: Society Girl 
 ---
 
-## Coming Soon!
+
+## Society Girl: A Tale of Sex, Lies, and Scandal
 
 **Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
+**Preorder**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692)
 
-## Society Girl: A Tale of Sex, Lies, and Scandal
+
+<img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
+
 
 On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
 
@@ -16,7 +20,7 @@ The ensuing scandal would shake Pakistani society, becoming a fixture on the fro
 
 But two autopsies, several investigations, and one trial later – no one was able to answer what exactly happened in that bedroom, and how Mustafa Zaidi ended up dead. 
 
-Over fifty years later, authors Saba Imtiaz and Tooba Masood-Khan attempt to answer this question in Society Girl. Their retelling of, and years-long investigation into this story of twisted motives and murderous intentions, of it-girls and playboys, of class and culture, and a press out for blood and salaciousness, led to a far more complex tale than anyone could have possibly imagined.
+Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_authors.html) attempt to answer this question in Society Girl. Their retelling of, and years-long investigation into this story of twisted motives and murderous intentions, of it-girls and playboys, of class and culture, and a press out for blood and salaciousness, led to a far more complex tale than anyone could have possibly imagined.
 
 
 ## Praise for Society Girl
