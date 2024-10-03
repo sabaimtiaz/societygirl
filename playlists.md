@@ -9,7 +9,7 @@ title: Playlists
 
 <img src="/assets/images/mz-mushaira-jang.png" alt="Black and white image showing a group of men sitting on a stage and a man in a suit in front of a microphone" 
 style="max-width:100%; height:auto">
-<p style="text-align: center;"><em>Mustafa Zaidi reciting his work at the Jashn-e-Josh recital in Mirpurkhas. <br>
+<p style="text-align: center;"><em>Mustafa Zaidi at the Jashn-e-Josh recital in Mirpurkhas. <br>
 Source: Jang, 19 October 1970. Accessed at Sindh Archives, Karachi.</em></p>
 
 Mustafa Zaidi's poetry has been set to music over the years; performed by musicians including Noor Jahan, Abida Parveen, and Ghulam Ali. One of the most well-known songs - adapted from a ghazal by Zaidi - is *Chale To Kat Hi Jayega Safar*, performed by Musarrat Nazir. 
