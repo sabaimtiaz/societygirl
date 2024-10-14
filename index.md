@@ -31,6 +31,12 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 ‘Vivid, gripping and meticulously crafted, this is a wonderfully fascinating journey into ’70s Karachi high society, a mysterious death shining a light on the whirl of social and political undercurrents of the time.’ — **Mahesh Rao**, author of *Polite Society*
 
 
+## Contact
+- Email [Saba Imtiaz](mailto:saba@mm.st)
+- Email [Tooba Masood](mailto:masoodtooba@gmail.com)
+- For press inquiries, contact [Roli Books](mailto:sanvari@rolibooks.com)
+- For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
+
 ## Social
 - [Instagram: @murdermystery70](https://instagram.com/murdermystery70)
 - [Twitter / Saba Imtiaz](https://twitter.com/sabaimtiaz)
@@ -40,14 +46,6 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 - [Instagram / Roli Books](https://instagram.com/rolibooks)
 - [Tiktok](https://www.tiktok.com/@murdermystery7096)
 - [Podcast: Notes on a Scandal](podcast.md) 
-
-
-
-## Contact
-- Email [Saba Imtiaz](mailto:saba@mm.st)
-- Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For press inquiries, contact [Roli Books](mailto:sanvari@rolibooks.com)
-- For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 
 <div id="mc_embed_shell">
