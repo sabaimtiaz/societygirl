@@ -46,7 +46,8 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 ## Contact
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For publishing inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
+- For press inquiries, contact [Roli Books](mailto:sanvari@rolibooks.com)
+- For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 
 <div id="mc_embed_shell">
