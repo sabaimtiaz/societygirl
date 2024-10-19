@@ -8,12 +8,22 @@ title: Society Girl
 
 **Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
-**Preorder**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692)
+**Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692)
+
+**Pakistan: COMING SOON**
+
+## Press
+
+
+[Hindustan Times](https://www.hindustantimes.com/books/ht-picks-new-reads-101729262610531.html)
+
+<img src="assets/images/sg-ht.png" alt="HT Picks" />
+
 
 
 <img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
 
-
+## About the Book
 On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
 
 The ensuing scandal would shake Pakistani society, becoming a fixture on the front pages of newspapers even as the country went from one cataclysmic event to another. It grew to include obsession, revenge porn, the involvement of influential politicians and businessmen, and even a smuggling ring. 
@@ -44,7 +54,7 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 - [Instagram / Saba Imtiaz](https://instagram.com/sabaimtiaz)
 - [Instagram / Tooba Masood](https://instagram.com/tabahi_tooba)
 - [Instagram / Roli Books](https://instagram.com/rolibooks)
-- [Tiktok](https://www.tiktok.com/@murdermystery7096)
+- [Tiktok / Society Girl](https://www.tiktok.com/@murdermystery7096)
 - [Podcast: Notes on a Scandal](podcast.md) 
 
 
