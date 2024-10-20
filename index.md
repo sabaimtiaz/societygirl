@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Society Girl 
+title: Society Girl - A Tale of Sex, Lies, and Scandal
 ---
 
 
@@ -8,17 +8,21 @@ title: Society Girl
 
 **Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
-**Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692)
+**Kindle Edition**: [US](https://www.amazon.com/dp/B0DKBJD5KX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - [UK](https://amzn.eu/d/e2NQWfx) - [India](https://amzn.in/d/5rAF7hk)
+
+**Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692) - All major bookstores in New Delhi!
 
 **Pakistan: COMING SOON**
 
 ## Press
 
-
 [Hindustan Times](https://www.hindustantimes.com/books/ht-picks-new-reads-101729262610531.html)
 
 <img src="assets/images/sg-ht.png" alt="HT Picks" />
 
+[Live Mint Lounge](https://www.livemint.com/mint-lounge/art-and-culture/new-book-releases-october-2024-11729152512682.html)
+
+<img src="assets/images/mint-sg.png" alt="Mint Lounge" />
 
 
 <img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
