@@ -18,7 +18,10 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 
 ## Preview
 
-Read an excerpt from Society Girl [here - published on Scroll.in!](https://scroll.in/article/1075239/) 
+**Read an excerpt from Society Girl!**
+
+- ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
+- ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
 ## Press
 
