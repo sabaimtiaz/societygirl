@@ -10,9 +10,8 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 
 **Order a copy [here](/order.html)!**
 
-**Kindle Edition**: [US](https://www.amazon.com/dp/B0DKBJD5KX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - [UK](https://amzn.eu/d/e2NQWfx) - [India](https://amzn.in/d/5rAF7hk)
-
-**Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692) - All major bookstores in India!
+- **Kindle Edition**: [US](https://www.amazon.com/dp/B0DKBJD5KX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - [UK](https://amzn.eu/d/e2NQWfx) - [India](https://amzn.in/d/5rAF7hk)
+- **Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692) - All major bookstores in India!
 
 **Pakistan: COMING SOON**
 
@@ -23,26 +22,9 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
-## Press
+## Appearances
+Find upcoming book launch events, signings and appearances [here](/events.html).
 
-[Himalistan - Southasia Review of Books Podcast](https://www.himalmag.com/podcast/society-girl-sex-lies-scandal-karachi-pakistan-media-1970-mustafa-zaidi-shahnaz-gul)
-
-<img src="assets/images/hm-sg.png" alt="Himalistan">
-
-[Indian Express](https://indianexpress.com/article/books-and-literature/books-to-read-greatest-cooking-show-galaxy-9662662/)
-
-<img src="assets/images/ie-sg.jpg" style="width: 300px">
-
-[Hindustan Times](https://www.hindustantimes.com/books/ht-picks-new-reads-101729262610531.html)
-
-<img src="assets/images/sg-ht.png" alt="HT Picks" />
-
-[Live Mint Lounge](https://www.livemint.com/mint-lounge/art-and-culture/new-book-releases-october-2024-11729152512682.html)
-
-<img src="assets/images/mint-sg.png" alt="Mint Lounge" />
-
-
-<img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
 
 ## About the Book
 On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
@@ -65,7 +47,7 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 ## Contact
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For press inquiries, contact [Roli Books](mailto:sanvari@rolibooks.com)
+- For press inquiries in India, contact [Roli Books](mailto:sanvari@rolibooks.com)
 - For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 ## Social
