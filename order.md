@@ -14,7 +14,7 @@ title: Order
 
 - [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal)
 - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692)
-- All major bookstores in New Delhi!
+- All major bookstores in India!
 
 ## Pakistan:
 - Coming Soon!

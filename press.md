@@ -19,5 +19,3 @@ title: Press!
 
 <img src="assets/images/mint-sg.png" alt="Mint Lounge" />
 
-
-<img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />

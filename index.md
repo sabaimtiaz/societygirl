@@ -26,6 +26,8 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 Find upcoming book launch events, signings and appearances [here](/events.html).
 
 
+<img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
+
 ## About the Book
 On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
 
