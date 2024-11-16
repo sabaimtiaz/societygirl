@@ -4,20 +4,19 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 ---
 
 
-## Society Girl: A Tale of Sex, Lies, and Scandal
+### Society Girl -- A Tale of Sex, Lies, and Scandal
 
-**Society Girl: A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
+**Society Girl -- A Tale of Sex, Lies and Scandal**, by [Saba Imtiaz](https://sabaimtiaz.com) and Tooba Masood-Khan (October 2024, [Roli Books](https://rolibooks.com/product/society-girl-a-tale-of-sex-lies-and-scandal/)). 
 
 **Order a copy [here](/order.html)!**
 
 - **Kindle Edition**: [US](https://www.amazon.com/dp/B0DKBJD5KX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - [UK](https://amzn.eu/d/e2NQWfx) - [India](https://amzn.in/d/5rAF7hk)
 - **Order in India now**: [CMYK](https://cmykbookstore.com/products/society-girl-a-tale-of-sex-lies-and-scandal) - [Amazon](https://www.amazon.in/Society-Girl-Tale-Lies-Scandal/dp/8193984692) - All major bookstores in India!
-
-**Pakistan: COMING SOON**
+- **Pakistan: COMING SOON**
 
 ## Preview
 
-**Read an excerpt from Society Girl!**
+### Read an excerpt from Society Girl!
 
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
@@ -26,9 +25,10 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 Find upcoming book launch events, signings and appearances [here](/events.html).
 
 
+## About the Book
+
 <img src="assets/images/societygirl-cover.jpg" alt="Cover" style="float: right; margin-left: 10px; width: 300px;" />
 
-## About the Book
 On an October morning in 1970, phones began ringing all over Karachi. The charismatic young poet and former civil servant Mustafa Zaidi had been found dead in his bedroom. He wasn’t alone: Shahnaz Gul, a stunningly beautiful, married socialite, with whom Zaidi had been having an affair, was lying unconscious in the next room, seemingly drugged. 
 
 The ensuing scandal would shake Pakistani society, becoming a fixture on the front pages of newspapers even as the country went from one cataclysmic event to another. It grew to include obsession, revenge porn, the involvement of influential politicians and businessmen, and even a smuggling ring. 
