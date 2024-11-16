@@ -17,4 +17,4 @@ title: Order
 - All major bookstores in India!
 
 ## Pakistan:
-- Coming Soon!
+- [Preorder from Liberty Books](https://www.libertybooks.com/liberty-publishing/society-girl-9786277626471)
