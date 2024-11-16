@@ -7,8 +7,8 @@ title: Society Girl Events
 
 ## Karachi
 
-**November 23, 2024**
-TBA
+**November 23, 2024, 6 p.m. - 8 p.m. - The Second Floor
+- Liberty Publishing / Book launch - an exclusive evening with Saba Imtiaz & Tooba Masood-Khan
 
 **November 24, 2024**
 TBA
