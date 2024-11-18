@@ -17,7 +17,6 @@ title: Society Girl Events
 - [Kitab Ghar -- 236-B, Shahrah-e-Quaideen, PECHS Block 2](https://maps.app.goo.gl/GE1igHK81oxpvoXQA)
 - [Kitab Ghar on Instagram](https://instagram.com/kitabghar.karachi)
 
-
 **November 26, 2024, 7 p.m - 9 p.m. - Centre for Arts-based Methodologies & Wellbeing**
 - Saba Imtiaz & Tooba Masood-Khan in conversation with filmmaker Haya Fatima Iqbal, moderated by Bhawna Lohana - followed by a Q&A and book signing
 - [CFAW -- First Floor, F-41, Block 2, PECHS, Karachi](https://maps.app.goo.gl/e5Ar9UWCgFfeiwPL8)
