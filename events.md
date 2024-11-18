@@ -26,6 +26,7 @@ title: Society Girl Events
 
 **November 28, 2024, 2:30 p.m - 3:30 p.m - Habib University**
 - A conversation with Saba Imtiaz & Tooba Masood-Khan with the Habib University Writing Center
+- Only open to the Habib University community
 - [Habib University Writing Center on Instagram](https://instagram.com/hu_writingcenter)
 
 ## Lahore
