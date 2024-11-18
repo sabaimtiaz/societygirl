@@ -9,10 +9,14 @@ title: Society Girl Events
 
 **November 23, 2024, 6 p.m. - 8 p.m. - The Second Floor**
 - Liberty Publishing / Society Girl Book Launch - An exclusive evening with Saba Imtiaz & Tooba Masood-Khan
+- [The Second Floor -- 10-C, Sunset Lane 5, DHA Phase 2 Extension](https://maps.app.goo.gl/kDjgVxCbbhN7jce99)
 - [Liberty Publishing on Instagram](https://instagram.com/libertybooks)
 
-**November 24, 2024**
-TBA
+**November 24, 2024, 6 p.m. - 8 p.m. - Kitab Ghar**
+- Book talk! Saba Imtiaz and Tooba Masood-Khan, moderated by Zara Mannan
+- [Kitab Ghar -- 236-B, Shahrah-e-Quaideen, PECHS Block 2](https://maps.app.goo.gl/GE1igHK81oxpvoXQA)
+- [Kitab Ghar on Instagram](https://instagram.com/kitabghar.karachi)
+
 
 **November 26, 2024, 7 p.m - 9 p.m. - Centre for Arts-based Methodologies & Wellbeing**
 - Saba Imtiaz & Tooba Masood-Khan in conversation with filmmaker Haya Fatima Iqbal, moderated by Bhawna Lohana - followed by a Q&A and book signing
