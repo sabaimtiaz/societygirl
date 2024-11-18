@@ -9,6 +9,7 @@ title: Society Girl Events
 
 **November 23, 2024, 6 p.m. - 8 p.m. - The Second Floor**
 - Liberty Publishing / Society Girl Book Launch - An exclusive evening with Saba Imtiaz & Tooba Masood-Khan
+- [Liberty Publishing on Instagram](https://instagram.com/libertybooks)
 
 **November 24, 2024**
 TBA
@@ -19,8 +20,9 @@ TBA
 - [Signup here -- limited spaces available!](https://docs.google.com/forms/d/e/1FAIpQLSdLdJ-i0lEjp656ciJfIH68NxGbscpNG6IM2uA8sDkMIdu3EQ/viewform)
 - [CFAW on Instagram](https://instagram.com/cfaw_)
 
-**November 28, 2024**
-TBA
+**November 28, 2024, 2:30 p.m - 3:30 p.m - Habib University**
+- A conversation with Saba Imtiaz & Tooba Masood-Khan with the Habib University Writing Center
+- [Habib University Writing Center on Instagram](https://instagram.com/hu_writingcenter)
 
 ## Lahore
 
