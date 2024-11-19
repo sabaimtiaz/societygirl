@@ -21,6 +21,12 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
+## Press 
+
+"Creative non-fiction is a convenient way to circumvent the issue of what color coat a person wore, or whether it was raining on a particular day, but non-fiction is exacting. This is especially true for a story such as the Zaidi-Gul case, where veering into judgment would defeat the purpose of the narrative, which the authors say is an effort to provide some clarity around the gossip and salacious rumor-mongering that still marks the case." - [Mina Malik in Dunya](https://dunyadigital.co/feature_40.html)
+
+For more reviews and press, see [here](/press.html).
+
 ## Appearances
 Find upcoming book launch events, signings and appearances [here](/events.html).
 

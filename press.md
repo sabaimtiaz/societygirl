@@ -3,6 +3,10 @@ layout: default
 title: Press!
 ---
 
+[Dunya: A Scandal for the Pages](https://dunyadigital.co/feature_40.html)
+
+<img src="assets/images/sg-dd.png" alt="Dunya">
+
 [Himalistan - Southasia Review of Books Podcast](https://www.himalmag.com/podcast/society-girl-sex-lies-scandal-karachi-pakistan-media-1970-mustafa-zaidi-shahnaz-gul)
 
 <img src="assets/images/hm-sg.png" alt="Himalistan">
