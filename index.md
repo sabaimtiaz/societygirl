@@ -21,9 +21,13 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
-## Press 
+## Reviews
 
-"Creative non-fiction is a convenient way to circumvent the issue of what color coat a person wore, or whether it was raining on a particular day, but non-fiction is exacting. This is especially true for a story such as the Zaidi-Gul case, where veering into judgment would defeat the purpose of the narrative, which the authors say is an effort to provide some clarity around the gossip and salacious rumor-mongering that still marks the case." - [Mina Malik in Dunya](https://dunyadigital.co/feature_40.html)
+"Society Girl is not just an enthralling retelling of a cold case but a fascinating study of media sensationalism.” - [Dawn Images](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
+
+"Skilfully swimming through the narrowness of Lahore’s bloodlines to finding liberation in Karachi’s cosmopolitanism and glittering nightlife, this is a jigsaw galaxy made up of thousands of scattered pieces from different planets. Truly, Imtiaz and Masood-Khan have set the bar with their stellar investigative skills and proven to be master storytellers." - [The Friday Times](https://thefridaytimes.com/23-Nov-2024/a-homemaker-and-a-poet-fall-in-love-what-could-possibly-go-wrong)
+
+"Creative non-fiction is a convenient way to circumvent the issue of what color coat a person wore, or whether it was raining on a particular day, but non-fiction is exacting. This is especially true for a story such as the Zaidi-Gul case, where veering into judgment would defeat the purpose of the narrative, which the authors say is an effort to provide some clarity around the gossip and salacious rumor-mongering that still marks the case." - [Dunya Digital](https://dunyadigital.co/feature_40.html)
 
 For more reviews and press, see [here](/press.html).
 
