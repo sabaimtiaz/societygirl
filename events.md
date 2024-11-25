@@ -28,6 +28,9 @@ title: Society Girl Events
 - Only open to the Habib University community
 - [Habib University Writing Center on Instagram](https://instagram.com/hu_writingcenter)
 
+**November 28, 2024, 6 p.m. - 8 p.m. - TBA**
+
+
 ## Lahore
 
 **November 30, 2024**
@@ -37,3 +40,5 @@ TBA
 - Saba Imtiaz & Tooba Masood-Khan in conversation with Hira Azmat - followed by a Q&A and book signing
 - [The Last Word -- 30 Z Commercial, Sector Z, Phase 3 DHA, Lahore](https://maps.app.goo.gl/2K5rKrFt9WPx9Qkx5)
 - [The Last Word on Instagram](https://instagram.com/thelastwordbks)
+
+**December 2, 2024, 4 p.m - 6 p.m - TBA**
