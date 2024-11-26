@@ -28,13 +28,16 @@ title: Society Girl Events
 - Only open to the Habib University community
 - [Habib University Writing Center on Instagram](https://instagram.com/hu_writingcenter)
 
-**November 28, 2024, 6 p.m. - 8 p.m. - TBA**
-
+**November 28, 2024, 6 p.m. - 8 p.m. - Liberty Books**
+- Book signing with Saba & Tooba
+- [Liberty Books Flagship Bookstore, Clifton - near BBQ Tonite](https://maps.app.goo.gl/14ot8kdYtBJNsMJJA)
 
 ## Lahore
 
-**November 30, 2024**
-TBA
+**November 30, 2024 - 5:30 p.m. onwards - Kitab Ghar**
+- Book talk with Saba & Tooba, moderated by Ali Imran; ghazals, open mic night
+- [Kitab Ghar -- 24A Sultan Ahmed Road, Icchra, Lahore](https://maps.app.goo.gl/1N9CUC2Q5rb8BbeE6)
+- [Kitab Ghar Lahore on Instagram](https://instagram.com/kitabgharlahore)
 
 **December 1, 2024, 4 p.m - The Last Word**
 - Saba Imtiaz & Tooba Masood-Khan in conversation with Hira Azmat - followed by a Q&A and book signing
@@ -42,3 +45,7 @@ TBA
 - [The Last Word on Instagram](https://instagram.com/thelastwordbks)
 
 **December 2, 2024, 4 p.m - 6 p.m - TBA**
+
+**December 3, 2024, 6 p.m. - 8 p.m. - Liberty Books**
+- Book signing with Saba & Tooba
+- [Liberty Books, Packages Mall](https://maps.app.goo.gl/53BNycTxUy5ahNq28)
