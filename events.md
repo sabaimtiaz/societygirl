@@ -44,7 +44,9 @@ title: Society Girl Events
 - [The Last Word -- 30 Z Commercial, Sector Z, Phase 3 DHA, Lahore](https://maps.app.goo.gl/2K5rKrFt9WPx9Qkx5)
 - [The Last Word on Instagram](https://instagram.com/thelastwordbks)
 
-**December 2, 2024, 4 p.m - 6 p.m - TBA**
+**December 2, 2024, 4 p.m - Lahore University of Management Sciences**
+- Saba Imtiaz & Tooba Masood Khan in conversation with Dr. Maryam Wasif Khan
+- VC Lounge
 
 **December 3, 2024, 6 p.m. - 8 p.m. - Liberty Books**
 - Book signing with Saba & Tooba
