@@ -19,6 +19,11 @@ title: Press!
 
 ## Interviews
 
+[BBC Hindi - Pakistan के इतिहास की सबसे चर्चित और रहस्यमयी मौत की कहानी -विवेचना](https://www.youtube.com/watch?v=Q4hqR3I2PR8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4hqR3I2PR8?si=ws0dbKtVrw3d6Zft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [Himalistan - Southasia Review of Books Podcast](https://www.himalmag.com/podcast/society-girl-sex-lies-scandal-karachi-pakistan-media-1970-mustafa-zaidi-shahnaz-gul)
 <img src="assets/images/hm-sg.png" alt="Himalistan">
 
