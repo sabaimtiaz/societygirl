@@ -23,6 +23,8 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 
 ## Reviews
 
+"The book is a riveting archival investigation written with a fine sense of drama and an eye for detail. This story of a society scandal and a deep tragedy for those directly impacted, is also in many ways a fascinating snapshot of the social history of upper-class Karachi and Pakistan in a transformative year of its history. A gripping read and highly recommended." - [Open Magazine](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
+
 "Society Girl is not just an enthralling retelling of a cold case but a fascinating study of media sensationalism.” - [Dawn Images](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
 
 "Skilfully swimming through the narrowness of Lahore’s bloodlines to finding liberation in Karachi’s cosmopolitanism and glittering nightlife, this is a jigsaw galaxy made up of thousands of scattered pieces from different planets. Truly, Imtiaz and Masood-Khan have set the bar with their stellar investigative skills and proven to be master storytellers." - [The Friday Times](https://thefridaytimes.com/23-Nov-2024/a-homemaker-and-a-poet-fall-in-love-what-could-possibly-go-wrong)

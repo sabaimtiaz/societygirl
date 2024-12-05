@@ -5,6 +5,11 @@ title: Press!
 
 ## Reviews
 
+
+[Open Magazine: Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
+
+<img src="assets/images/sg-open.png" alt="Open">
+
 [Dawn: Book review - Society Girl: A Tale of Sex, Lies and Scandal revisits one of Pakistan’s most intriguing cold cases](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
 
 <img src="assets/images/sg-di.png" alt="Dawn Images">
