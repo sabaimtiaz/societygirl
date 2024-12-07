@@ -28,6 +28,7 @@ title: Press!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4hqR3I2PR8?si=ws0dbKtVrw3d6Zft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[BBC Urdu - Karachi 'high society' ka scandal jo aik purisrar maut par khatam hua](https://www.bbc.com/urdu/articles/c9wlj5v7gd0o)
 
 [Himalistan - Southasia Review of Books Podcast](https://www.himalmag.com/podcast/society-girl-sex-lies-scandal-karachi-pakistan-media-1970-mustafa-zaidi-shahnaz-gul)
 <img src="assets/images/hm-sg.png" alt="Himalistan">
@@ -56,6 +57,8 @@ title: Press!
 <img src="assets/images/mint-sg.png" alt="Mint Lounge" />
 
 ## Book Events
+
+- [Revisiting the story of Mustafa Zaidi’s death and Shahnaz Gul - Dawn](https://www.dawn.com/news/1876055/revisiting-the-story-of-mustafa-zaidis-death-and-shahnaz-gul)
 
 - [Decades old murder mystery retold - Dawn](https://www.dawn.com/news/1874587/decades-old-murder-mystery-retold)
 
