@@ -62,7 +62,7 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
 - For press inquiries in India, contact [Roli Books](mailto:sanvari@rolibooks.com)
-- For press inquiries in Pakistan, contact [Liberty Publishing](mailto:publishing@libertybooks.com)
+- For press inquiries in Pakistan, contact the authors or [Liberty Publishing](mailto:publishing@libertybooks.com)
 - For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 ## Social
