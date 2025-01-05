@@ -5,28 +5,30 @@ title: Press!
 
 ## Reviews
 
+[The Week - 'Society Girl': Of high-profile scandals and media trials in 1970s Pakistan](https://www.theweek.in/theweek/leisure/2025/01/04/society-girl-a-tale-of-sex-lies-and-scandal-book-by-saba-imtiaz-and-tooba-masood-khan-roli-books.html)
+
 [Open Magazine - Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
 
-<img src="assets/images/sg-open.png" alt="Open">
 
 [Dawn - Society Girl: A Tale of Sex, Lies and Scandal revisits one of Pakistan’s most intriguing cold cases](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
 
-<img src="assets/images/sg-di.png" alt="Dawn Images">
 
 [Dunya - A Scandal for the Pages](https://dunyadigital.co/feature_40.html)
 
-<img src="assets/images/sg-dd.png" alt="Dunya">
 
 [The Friday Times - A Homemaker And A Poet Fall In Love: What Could Possibly Go Wrong?](https://thefridaytimes.com/23-Nov-2024/a-homemaker-and-a-poet-fall-in-love-what-could-possibly-go-wrong)
 
-<img src="assets/images/sg-tft.png" alt="TFT">
 
 ## Features 
 
 [The Times of India - The Sex Scandal Pakistan Never Forgot](https://timesofindia.indiatimes.com/toi-plus/international/why-pakistan-is-still-obsessed-with-this-sex-scandal-from-1970/articleshow/115939121.cms)
 
 
+[India Today - History books 2024 - Past perfect](https://www.indiatoday.in/magazine/leisure/story/20250113-history-books-2024-past-perfect-2659664-2025-01-04)
+
+
 [BBC Urdu - Karachi 'high society' ka scandal jo aik purisrar maut par khatam hua](https://www.bbc.com/urdu/articles/c9wlj5v7gd0o)
+
 
 ## Interviews
 
