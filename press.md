@@ -26,6 +26,8 @@ title: Press!
 
 [India Today - History books 2024 - Past perfect](https://www.indiatoday.in/magazine/leisure/story/20250113-history-books-2024-past-perfect-2659664-2025-01-04)
 
+[Dawn - A Woman Silenced](https://www.dawn.com/news/1883608/a-woman-silenced)
+
 
 [BBC Urdu - Karachi 'high society' ka scandal jo aik purisrar maut par khatam hua](https://www.bbc.com/urdu/articles/c9wlj5v7gd0o)
 
