@@ -53,7 +53,7 @@ title: Press!
 
 ## Columns / Essays
 
-- [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)]
+- [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)
 
 - [Arifa Noor: A Woman Silenced - Dawn](https://www.dawn.com/news/1883608/a-woman-silenced)
 
