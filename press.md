@@ -26,8 +26,6 @@ title: Press!
 
 [India Today - History books 2024 - Past perfect](https://www.indiatoday.in/magazine/leisure/story/20250113-history-books-2024-past-perfect-2659664-2025-01-04)
 
-[Dawn - A Woman Silenced](https://www.dawn.com/news/1883608/a-woman-silenced)
-
 
 [BBC Urdu - Karachi 'high society' ka scandal jo aik purisrar maut par khatam hua](https://www.bbc.com/urdu/articles/c9wlj5v7gd0o)
 
@@ -53,7 +51,12 @@ title: Press!
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
-## Columns
+## Columns / Essays
+
+- [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)]
+
+- [Arifa Noor: A Woman Silenced - Dawn](https://www.dawn.com/news/1883608/a-woman-silenced)
+
 
 - [Mahnaz Rahman: Shahnaz aur Mustafa Zaidi Ki Kahani - Hum Sab](https://www.humsub.com.pk/571228/mahnaz-rahman-152/) 
 
