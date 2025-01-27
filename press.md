@@ -5,6 +5,9 @@ title: Press!
 
 ## Reviews
 
+[Dawn - Notes on a Scandal](https://www.dawn.com/news/1887802/non-fiction-notes-on-a-scandal)
+
+
 [The Week - 'Society Girl': Of high-profile scandals and media trials in 1970s Pakistan](https://www.theweek.in/theweek/leisure/2025/01/04/society-girl-a-tale-of-sex-lies-and-scandal-book-by-saba-imtiaz-and-tooba-masood-khan-roli-books.html)
 
 [Open Magazine - Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
