@@ -5,6 +5,9 @@ title: Press!
 
 ## Reviews
 
+[The News - The death of a poet](https://www.thenews.com.pk/tns/detail/1280392-the-death-of-a-poet)
+
+
 [Dawn - Notes on a Scandal](https://www.dawn.com/news/1887802/non-fiction-notes-on-a-scandal)
 
 
