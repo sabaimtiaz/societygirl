@@ -34,6 +34,11 @@ title: Society Girl Events
 
 ## Lahore
 
+**February 21, 2025 - 4:30 p.m. - 5:30 p.m - Lahore Literary Festival**
+- Tooba Masood-Khan in conversation with Sanam Maher
+- [Lahore Literary Festival - Alhamra Arts Center, Lahore](https://maps.app.goo.gl/vYGEyHFC2Lkq5pAk9)
+- [Lahore Literary Festival on Instagram](https://instagram.com/lahorelitfest)
+
 **November 30, 2024 - 5:30 p.m. onwards - Kitab Ghar**
 - Book talk with Saba & Tooba, moderated by Ali Imran; ghazals, open mic night
 - [Kitab Ghar -- 24A Sultan Ahmed Road, Icchra, Lahore](https://maps.app.goo.gl/1N9CUC2Q5rb8BbeE6)
