@@ -63,12 +63,13 @@ title: Press!
 
 - [Arifa Noor: A Woman Silenced - Dawn](https://www.dawn.com/news/1883608/a-woman-silenced)
 
-
 - [Mahnaz Rahman: Shahnaz aur Mustafa Zaidi Ki Kahani - Hum Sab](https://www.humsub.com.pk/571228/mahnaz-rahman-152/) 
 
 ## Roundups
 
 - [Harper's Bazaar](https://www.harpersbazaar.in/culture/story/books-to-read-if-you-are-looking-for-an-adrenaline-rush-this-season-1135631-2024-12-10)
+
+- [Business Recorder](https://www.brecorder.com/news/40349944)
 
 - [Indian Express](https://indianexpress.com/article/books-and-literature/books-to-read-greatest-cooking-show-galaxy-9662662/)
 
