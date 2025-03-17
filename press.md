@@ -35,7 +35,7 @@ title: Press!
 
 ## Columns / Essays
 
-- [Clare Chambers: 'True Crime' in Pakistan - Dawn](https://www.dawn.com/news/1898250/column-true-crime-in-pakistan)
+- [Claire Chambers: 'True Crime' in Pakistan - Dawn](https://www.dawn.com/news/1898250/column-true-crime-in-pakistan)
 
 - [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)
 
