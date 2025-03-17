@@ -18,3 +18,5 @@ title: Order
 
 ## Pakistan:
 - [Order from Liberty Books](https://www.libertybooks.com/liberty-publishing/society-girl-9786277626471)
+- Available at Liberty Books, and major bookstores in Pakistan!
+
