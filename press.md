@@ -5,22 +5,19 @@ title: Press!
 
 ## Reviews
 
-[The News - The death of a poet](https://www.thenews.com.pk/tns/detail/1280392-the-death-of-a-poet)
-
-
-[Dawn - Notes on a Scandal](https://www.dawn.com/news/1887802/non-fiction-notes-on-a-scandal)
-
+[Open Magazine - Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
 
 [The Week - 'Society Girl': Of high-profile scandals and media trials in 1970s Pakistan](https://www.theweek.in/theweek/leisure/2025/01/04/society-girl-a-tale-of-sex-lies-and-scandal-book-by-saba-imtiaz-and-tooba-masood-khan-roli-books.html)
 
-[Open Magazine - Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
+[The Nation - The death of Mustafa Zaidi: Poetry, scandal, and unsolved Mystery](https://www.nation.com.pk/03-Mar-2025/the-unsolved-death-of-mustafa-zaidi-a-tale-of-poetry-scandal-and-media-sensationalism)
 
+[The News - The death of a poet](https://www.thenews.com.pk/tns/detail/1280392-the-death-of-a-poet)
+
+[Dawn - Notes on a Scandal](https://www.dawn.com/news/1887802/non-fiction-notes-on-a-scandal)
 
 [Dawn - Society Girl: A Tale of Sex, Lies and Scandal revisits one of Pakistan’s most intriguing cold cases](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
 
-
 [Dunya - A Scandal for the Pages](https://dunyadigital.co/feature_40.html)
-
 
 [The Friday Times - A Homemaker And A Poet Fall In Love: What Could Possibly Go Wrong?](https://thefridaytimes.com/23-Nov-2024/a-homemaker-and-a-poet-fall-in-love-what-could-possibly-go-wrong)
 
@@ -34,6 +31,17 @@ title: Press!
 
 
 [BBC Urdu - Karachi 'high society' ka scandal jo aik purisrar maut par khatam hua](https://www.bbc.com/urdu/articles/c9wlj5v7gd0o)
+
+
+## Columns / Essays
+
+- [Clare Chambers: 'True Crime' in Pakistan - Dawn](https://www.dawn.com/news/1898250/column-true-crime-in-pakistan)
+
+- [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)
+
+- [Arifa Noor: A Woman Silenced - Dawn](https://www.dawn.com/news/1883608/a-woman-silenced)
+
+- [Mahnaz Rahman: Shahnaz aur Mustafa Zaidi Ki Kahani - Hum Sab](https://www.humsub.com.pk/571228/mahnaz-rahman-152/) 
 
 
 ## Interviews
@@ -57,13 +65,6 @@ title: Press!
 - ['A new book investigates poet Mustafa Zaidi’s death, still a subject of controversy in Pakistan' - Scroll.in](https://scroll.in/article/1075239/) 
 - ['The death that shook 1970s’ Pakistan' - The Tribune](https://www.tribuneindia.com/news/book-reviews/the-death-that-shook-1970s-pakistan)
 
-## Columns / Essays
-
-- [Dr. Ayesha Siddiqa: Of Sex, Lies And Perversion - The Friday Times](https://thefridaytimes.com/12-Jan-2025/of-sex-lies-and-perversion)
-
-- [Arifa Noor: A Woman Silenced - Dawn](https://www.dawn.com/news/1883608/a-woman-silenced)
-
-- [Mahnaz Rahman: Shahnaz aur Mustafa Zaidi Ki Kahani - Hum Sab](https://www.humsub.com.pk/571228/mahnaz-rahman-152/) 
 
 ## Roundups
 
