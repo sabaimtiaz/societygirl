@@ -30,9 +30,9 @@ GEM
     actionpack (7.1.4)
       actionview (= 7.1.4)
       activesupport (= 7.1.4)
-      nokogiri (>= 1.8.5)
+      nokogiri (>= 1.18.8)
       racc
-      rack (>= 2.2.4)
+      rack (>= 3.1.16)
       rack-session (>= 1.0.1)
       rack-test (>= 0.6.3)
       rails-dom-testing (~> 2.2)
@@ -149,7 +149,6 @@ GEM
     marcel (1.0.2)
     mercenary (0.3.6)
     mini_mime (1.1.5)
-    mini_portile2 (2.8.8)
     minimal (0.0.26)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
@@ -165,18 +164,17 @@ GEM
     net-smtp (0.3.3)
       net-protocol
     nio4r (2.5.9)
-    nokogiri (1.15.4)
-      mini_portile2 (~> 2.8.2)
+    nokogiri (1.18.8-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.15.4-arm64-darwin)
+    nokogiri (1.18.8-x86_64-linux-gnu)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     psych (5.1.2)
       stringio
     public_suffix (5.0.3)
-    racc (1.7.1)
-    rack (3.1.12)
+    racc (1.8.1)
+    rack (3.1.16)
     rack-session (2.0.0)
       rack (>= 3.0.0)
     rack-test (2.1.0)
@@ -243,6 +241,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-20
+  arm64-darwin-24
   x86_64-linux
 
 DEPENDENCIES
