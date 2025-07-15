@@ -7,6 +7,8 @@ title: Press!
 
 [Open Magazine - Fault Lines in Karachi](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
 
+[Hindustan Times - Review: Society Girl by Saba Imtiaz and Tooba Masood-Khan](https://www.hindustantimes.com/books/review-society-girl-by-saba-imtiaz-and-tooba-masoodkhan-101751656543545.html)
+
 [The Week - 'Society Girl': Of high-profile scandals and media trials in 1970s Pakistan](https://www.theweek.in/theweek/leisure/2025/01/04/society-girl-a-tale-of-sex-lies-and-scandal-book-by-saba-imtiaz-and-tooba-masood-khan-roli-books.html)
 
 [The Nation - The death of Mustafa Zaidi: Poetry, scandal, and unsolved Mystery](https://www.nation.com.pk/03-Mar-2025/the-unsolved-death-of-mustafa-zaidi-a-tale-of-poetry-scandal-and-media-sensationalism)

@@ -25,16 +25,16 @@ title: Society Girl - A Tale of Sex, Lies, and Scandal
 
 "The book is a riveting archival investigation written with a fine sense of drama and an eye for detail. This story of a society scandal and a deep tragedy for those directly impacted, is also in many ways a fascinating snapshot of the social history of upper-class Karachi and Pakistan in a transformative year of its history. A gripping read and highly recommended." - [Open Magazine](https://openthemagazine.com/lounge/books/fault-lines-in-karachi/)
 
+"Society Girl is a naturally, gloriously cinematic book — true crime, love, obsession, sex, a period drama set in the lives of the rich and the beautiful." - [Hindustan Times](https://www.hindustantimes.com/books/review-society-girl-by-saba-imtiaz-and-tooba-masoodkhan-101751656543545.html)
+
 "Society Girl is not just an enthralling retelling of a cold case but a fascinating study of media sensationalism.” - [Dawn Images](https://images.dawn.com/news/1192993/book-review-society-girl-a-tale-of-sex-lies-and-scandal-revisits-one-of-pakistans-most-intriguing-cold-cases)
 
 "Skilfully swimming through the narrowness of Lahore’s bloodlines to finding liberation in Karachi’s cosmopolitanism and glittering nightlife, this is a jigsaw galaxy made up of thousands of scattered pieces from different planets. Truly, Imtiaz and Masood-Khan have set the bar with their stellar investigative skills and proven to be master storytellers." - [The Friday Times](https://thefridaytimes.com/23-Nov-2024/a-homemaker-and-a-poet-fall-in-love-what-could-possibly-go-wrong)
 
-"Creative non-fiction is a convenient way to circumvent the issue of what color coat a person wore, or whether it was raining on a particular day, but non-fiction is exacting. This is especially true for a story such as the Zaidi-Gul case, where veering into judgment would defeat the purpose of the narrative, which the authors say is an effort to provide some clarity around the gossip and salacious rumor-mongering that still marks the case." - [Dunya Digital](https://dunyadigital.co/feature_40.html)
-
 For more reviews and press, see [here](/press.html).
 
 ## Appearances
-Find upcoming book launch events, signings and appearances [here](/events.html).
+Find upcoming book events, signings and appearances [here](/events.html).
 
 
 ## About the Book
@@ -61,8 +61,7 @@ Over fifty years later, [authors Saba Imtiaz and Tooba Masood-Khan](/about_autho
 ## Contact
 - Email [Saba Imtiaz](mailto:saba@mm.st)
 - Email [Tooba Masood](mailto:masoodtooba@gmail.com)
-- For press inquiries in India, contact [Roli Books](mailto:sanvari@rolibooks.com)
-- For press inquiries in Pakistan, contact the authors 
+- For press inquiries, contact the authors 
 - For publishing and rights inquiries, contact [The Wylie Agency](https://www.wylieagency.com/)
 
 ## Social
